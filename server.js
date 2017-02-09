@@ -25,20 +25,20 @@ var articles = {
             </p> `
 },
 'article-two': {
-    title: 'Article Three| Shreyasi',
-    heading: 'Article One',
-    date: 'Sep 5, 2016',
+    title: 'Article Two| Shreyasi',
+    heading: 'Article Two',
+    date: 'Sep 10, 2016',
  content: `    <p>
                 this is the content for my second article.
              
             </p>` 
 },
 'article-three': {
-   title: 'Article Two| Shreyasi',
-    heading: 'Article One',
-    date: 'Sep 5, 2016',
+   title: 'Article Three| Shreyasi',
+    heading: 'Article Three',
+    date: 'Sep 15, 2016',
  content: `    <p>
-                this is the content for my second article.
+                this is the content for my third article.
              
             </p>`  
 }
